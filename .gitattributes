@@ -1,0 +1,2 @@
+*.rar filter=lfs diff=lfs merge=lfs -text
+The[[:space:]]Red[[:space:]]Men.rar filter=lfs diff=lfs merge=lfs -text
